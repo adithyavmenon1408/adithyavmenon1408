@@ -7,6 +7,7 @@
   - [Small Office Home Office Networking Project](https://github.com/adithyavmenon1408/Networking-Projects/tree/SOHO-Network-Project)
   - [Hotel Management Networking Project](https://github.com/adithyavmenon1408/Networking-Projects/tree/Hotel-Management-Network-Project)
   - [University Campus Networking Project](https://github.com/adithyavmenon1408/Networking-Projects/tree/Campus-Network-Project)
+  - [Secure Health Care Network Project](https://github.com/adithyavmenon1408/Networking-Projects/tree/Secure-Health-Care-Network-Project)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
