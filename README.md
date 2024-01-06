@@ -8,8 +8,8 @@
   - [Hotel Management Networking Project](https://github.com/adithyavmenon1408/Networking-Projects/tree/Hotel-Management-Network-Project)
   - [University Campus Networking Project](https://github.com/adithyavmenon1408/Networking-Projects/tree/Campus-Network-Project)
   - [Secure Health Care Network Project](https://github.com/adithyavmenon1408/Networking-Projects/tree/Secure-Health-Care-Network-Project)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Active Directory Home Lab (Windows Server 2019, Windows 10, Oracle Virtual Box)</b>
+  - [Active Directory Home Lab](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
