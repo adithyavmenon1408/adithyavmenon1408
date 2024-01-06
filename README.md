@@ -3,10 +3,10 @@
 <h2>👨‍💻Cyber Security Projects:</h2>
 
 - <b>Networking Projects</b>
-  - [Simple Networking Project](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Small Office Home Office Networking Project](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Hotel Management Networking Project](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [University Campus Networking Project](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Simple Networking Project](https://github.com/adithyavmenon1408/Networking-Projects/tree/Simple-Networking-Project)
+  - [Small Office Home Office Networking Project](https://github.com/adithyavmenon1408/Networking-Projects/tree/SOHO-Network-Project)
+  - [Hotel Management Networking Project](https://github.com/adithyavmenon1408/Networking-Projects/tree/Hotel-Management-Network-Project)
+  - [University Campus Networking Project](https://github.com/adithyavmenon1408/Networking-Projects/tree/Campus-Network-Project)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
