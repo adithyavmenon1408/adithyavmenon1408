@@ -29,6 +29,7 @@
 <h2>📜 Certifications </h2>
 
 - [(ISC)2 Certified In Cybersecurity](https://www.credly.com/badges/70481a6b-e4e0-4b06-8e90-29d0b9f3692b/linked_in_profile)
+- [Networking Essentials](https://github.com/adithyavmenon1408/Certificates/blob/main/Adithya%20VijayMenon-NE-Selfpaced-certificate.pdf)
 
 
 <h2> 🤳 Connect with me:</h2>
