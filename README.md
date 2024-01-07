@@ -24,7 +24,12 @@
 
 <h2>🚩 Virtual Internships</h2>
 
-- [Coming Soon]()
+- [Coming Soon]
+
+<h2>📜 Certifications </h2>
+
+- [(ISC)2 Certified In Cybersecurity](https://www.credly.com/badges/70481a6b-e4e0-4b06-8e90-29d0b9f3692b/linked_in_profile)
+
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -35,7 +40,7 @@
 [linkedin]: https://www.linkedin.com/in/adithya-vijay-menon/
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**adithyavmenon1408/adithyavmenon1408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
