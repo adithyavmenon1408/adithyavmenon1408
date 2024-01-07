@@ -17,6 +17,10 @@
   - [Tenable Nessus Home Lab(Standard and Credential Scans)](https://github.com/adithyavmenon1408/Tenable-Nessus-Home-Lab)
 - <b>Python</b>
   - [COMING SOON]
+- <b>CTF Write Up</b>
+  - [Vulnhub: The Planets](https://github.com/adithyavmenon1408/CTF-Write-Up/tree/The-Planets)
+  - [Vulnhub: Empire](https://github.com/adithyavmenon1408/CTF-Write-Up/tree/Empire)
+  - [Vulnhub: DC1](https://github.com/adithyavmenon1408/CTF-Write-Up/tree/DC1) 
 
 <h2>📺 Popular YouTube Videos</h2>
 
