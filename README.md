@@ -16,7 +16,7 @@
 - <b>Teneble Nessus Home Lab</b>
   - [Tenable Nessus Home Lab(Standard and Credential Scans)](https://github.com/adithyavmenon1408/Tenable-Nessus-Home-Lab)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [COMING SOON]
 
 <h2>📺 Popular YouTube Videos</h2>
 
