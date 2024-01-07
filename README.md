@@ -11,10 +11,8 @@
 - <b>Active Directory Home Lab (Windows Server 2019, Windows 10, Oracle Virtual Box)</b>
   - [Active Directory Home Lab](https://github.com/adithyavmenon1408/Active-Directory-Home-Lab) 
 - <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Active Directory Bulk User Creation](https://github.com/adithyavmenon1408/PowerShell-Scripts/tree/Active-Directory-Bulk-User-Creation)
+  - [FIM (File Integrity Monitor)](https://github.com/adithyavmenon1408/PowerShell-Scripts/tree/File-Integrity-Monitor)
 - <b>Teneble Nessus Home Lab</b>
   - [Tenable Nessus Home Lab(Standard and Credential Scans)](https://github.com/adithyavmenon1408/Tenable-Nessus-Home-Lab)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
