@@ -16,7 +16,7 @@
 - <b>Teneble Nessus Home Lab</b>
   - [Tenable Nessus Home Lab(Standard and Credential Scans)](https://github.com/adithyavmenon1408/Tenable-Nessus-Home-Lab)
 - <b>Python</b>
-  - [COMING SOON]
+  - [Simple Zip file Brute forcer)](https://github.com/adithyavmenon1408/Tenable-Nessus-Home-Lab)
 - <b>CTF Write Up</b>
   - [Vulnhub: The Planets](https://github.com/adithyavmenon1408/CTF-Write-Up/tree/The-Planets)
   - [Vulnhub: Empire](https://github.com/adithyavmenon1408/CTF-Write-Up/tree/Empire)
@@ -25,6 +25,8 @@
 <h2>🚩 Extracurriculars </h2>
 
 - [Mastercard Cybersecurity virtual experience program on Forage-January 2024](https://github.com/adithyavmenon1408/Certificates/blob/main/Forage%20Mastercard%20VI.pdf)
+- [AIG Shields Up: Cybersecurity virtual experience program on Forage - January 2024](https://github.com/adithyavmenon1408/Certificates/blob/main/AIG%20Shields%20Up%20Cyber%20Security.pdf)
+
 
 
 <h2>📜 Certifications </h2>
