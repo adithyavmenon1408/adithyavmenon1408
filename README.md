@@ -16,8 +16,8 @@
 - <b>Teneble Nessus Home Lab</b>
   - [Tenable Nessus Home Lab(Standard and Credential Scans)](https://github.com/adithyavmenon1408/Tenable-Nessus-Home-Lab)
 - <b>Python</b>
-  - [Simple Zip file Brute forcer)](https://github.com/adithyavmenon1408/Python-Scripts/blob/Simple-Brute-Forcer/bruteforce.py)
-- <b>CTF Write Up</b>
+  - [Simple Zip file Brute forcer](https://github.com/adithyavmenon1408/Python-Scripts/blob/Simple-Brute-Forcer/bruteforce.py)
+- <b>CTF Challenges(Kali Linux, Nmap, Metasploit, BURP Suite)</b>
   - [Vulnhub: The Planets](https://github.com/adithyavmenon1408/CTF-Write-Up/tree/The-Planets)
   - [Vulnhub: Empire](https://github.com/adithyavmenon1408/CTF-Write-Up/tree/Empire)
   - [Vulnhub: DC1](https://github.com/adithyavmenon1408/CTF-Write-Up/tree/DC1) 
