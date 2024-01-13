@@ -1,4 +1,4 @@
-<h1>Hi, I'm Adithya! <br/><a href="https://github.com/adithyavmenon1408">Programmer</a>, <a href="www.linkedin.com/in/adithya-vijay-menon">Cyber Security Student</a>, <a href="https://medium.com/me/stories/public">Blogger</a></h1>
+<h1>Hi, I'm Adithya  <br/><a href="https://github.com/adithyavmenon1408">Programmer</a>, <a href="www.linkedin.com/in/adithya-vijay-menon">Cyber Security Student</a>, <a href="https://medium.com/me/stories/public">Blogger</a></h1>
 
 <h2>👨‍💻Cyber Security Projects:</h2>
 
