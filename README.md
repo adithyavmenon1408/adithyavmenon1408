@@ -17,6 +17,8 @@
   - [Tenable Nessus Home Lab(Standard and Credential Scans)](https://github.com/adithyavmenon1408/Tenable-Nessus-Home-Lab)
 - <b>Python</b>
   - [Simple Zip file Brute forcer](https://github.com/adithyavmenon1408/Python-Scripts/blob/Simple-Brute-Forcer/bruteforce.py)
+- <b>Security Audit</b>
+  - [Security Audit for a small company](https://github.com/adithyavmenon1408/Google-Cyber-Security-Professional/tree/Security-Audit)
 - <b>CTF Challenges(Kali Linux, Nmap, Metasploit, BURP Suite)</b>
   - [Vulnhub: The Planets](https://github.com/adithyavmenon1408/CTF-Write-Up/tree/The-Planets)
   - [Vulnhub: Empire](https://github.com/adithyavmenon1408/CTF-Write-Up/tree/Empire)
