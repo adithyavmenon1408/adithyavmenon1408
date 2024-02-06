@@ -16,6 +16,7 @@
   - [Tenable Nessus Home Lab(Standard and Credential Scans)](https://github.com/adithyavmenon1408/Tenable-Nessus-Home-Lab)
 - <b>Python</b>
   - [Simple Zip file Brute forcer](https://github.com/adithyavmenon1408/Python-Scripts/blob/Simple-Brute-Forcer/bruteforce.py)
+  - [Password Validator](https://github.com/adithyavmenon1408/Python-Scripts/tree/Password-Validator)
 - <b>Security Audit</b>
   - [Security Audit for a small company](https://github.com/adithyavmenon1408/Google-Cyber-Security-Professional/tree/Security-Audit)
 - <b>CTF Challenges(Kali Linux, Nmap, Metasploit, BURP Suite)</b>
@@ -32,6 +33,7 @@
 
 - [(ISC)2 Certified In Cybersecurity](https://www.credly.com/badges/70481a6b-e4e0-4b06-8e90-29d0b9f3692b/linked_in_profile)
 - [Networking Essentials](https://github.com/adithyavmenon1408/Certificates/blob/main/Adithya%20VijayMenon-NE-Selfpaced-certificate.pdf)
+- [Google Cyber Security Certificate](https://github.com/adithyavmenon1408/Certificates/blob/main/Google%20Cyber%20Security%20Professional%20Certificate.pdf)
 
 
 <h2> 🤳 Connect with me:</h2>
